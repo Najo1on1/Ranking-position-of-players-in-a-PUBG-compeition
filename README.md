@@ -18,7 +18,3 @@ This project focuses on creating a predictive model to estimate the final standi
 ## Insights and Conclusions
 
 The notebook details the steps taken from data downloading, preprocessing, exploratory analysis, to model training and evaluation. It demonstrates the application of advanced machine learning techniques in predicting outcomes in a highly competitive environment. The project showcases the potential of using game statistics to forecast player performance and rankings in PUBG competitions.
-
----
-
-This summary encapsulates the essence of the notebook, highlighting the project's objectives, methodology, and insights. It provides a concise overview for readers to understand the purpose and outcomes of your analysis.
